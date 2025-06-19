@@ -32,12 +32,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Programming Languages -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
@@ -72,7 +66,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
   </a>
   <a href="https://www.postman.com/thunder-client" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/thunderclientio/thunderclientio-icon.svg" alt="Thunder Client" width="40" height="40" />
+    <!-- Thunder Client does not have an official icon, using Postman icon as alternative -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Thunder Client" width="40" height="40" />
   </a>
   <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="CI/CD" width="40" height="40" />
@@ -87,7 +82,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mritunjaysukla&show_icons=true&locale=en&layout=compact" alt="Top languages" />
